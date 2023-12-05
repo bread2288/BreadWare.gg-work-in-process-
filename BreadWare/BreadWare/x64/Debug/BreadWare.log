@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\Хлебушек\Desktop\BreadWare\BreadWare\main.cpp(99): warning C4715: WinMain: значение возвращается не при всех путях выполнения
-C:\Users\Хлебушек\Desktop\BreadWare\BreadWare\main.cpp(57): warning C4715: WndProc: значение возвращается не при всех путях выполнения
-  BreadWare.vcxproj -> C:\Users\Хлебушек\Desktop\BreadWare\x64\Debug\BreadWare.exe
